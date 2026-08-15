@@ -1,6 +1,6 @@
 # GENAI-Lab-Experiments-Chan
 
-Lab Experiments of Genrative AI (GENAI) subject.
+Lab Experiments of my Generative AI (GENAI) subject.
 
 - Student: Chan Evan Wesley
 - Enrollment Number: 92301733072
